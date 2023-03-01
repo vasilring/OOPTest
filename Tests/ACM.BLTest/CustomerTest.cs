@@ -15,7 +15,7 @@ namespace ACM.BLTest
             Customer customer = new Customer
             {
                 FirstName = "Bilbo",
-                LastName = "Baggins"
+                LastName = "Baggins",
             };
             string expected = "Baggins, Bilbo";
 
