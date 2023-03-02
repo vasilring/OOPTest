@@ -32,6 +32,8 @@ namespace ACM.BL
             }
         }
 
+        public static int InstanceCount { get; set; }
+
         private string _lastName;
 
         //public string LastName { get; set; }
